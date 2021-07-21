@@ -32,6 +32,4 @@ public class Member {
 		this.ki = ki;
 	}
 	
-
-	
 }
