@@ -6,9 +6,9 @@ public class Ex1Main {
 	
 	public static void main(String[] args) {
 		
-		Member member = new Member();
-		
-		member.id = "bh";
+//		Member member = new Member();
+	
+//		member.id = "bh";
 		
 //		member.name = "";
 //		member.age = 30;

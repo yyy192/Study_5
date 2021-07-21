@@ -9,12 +9,16 @@ public class Member {
 	
 	private String name;
 	
-	private void member() {
+	private Member() {
 		
 		this.id = "BAEKHYUN";
 		this.age = 30;
 		this.name = "변백현";
 		
+	}
+	
+	public Member test() {
+		return new Member();
 	}
 	
 	
